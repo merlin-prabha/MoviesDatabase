@@ -1,0 +1,10 @@
+.pagination {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.page-btn {
+  background-color: rgb(120, 140, 233);
+  color: #ffffff;
+  border-width: 0px;
+}

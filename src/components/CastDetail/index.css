@@ -1,0 +1,19 @@
+.list-cast {
+  list-style-type: none;
+}
+.cast {
+  font-family: 'Roboto';
+  padding: 30px;
+  border: 1px #d8c2c2 solid;
+  border-radius: 10px;
+  width: 500px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  font-weight: 500;
+  font-size: 20px;
+}

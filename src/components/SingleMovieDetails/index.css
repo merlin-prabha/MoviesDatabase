@@ -1,0 +1,24 @@
+.movie-details-container {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  font-family: 'Roboto';
+}
+.movie-detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.poster-image {
+  width: 500px;
+  height: 500px;
+}
+.title {
+  font-weight: 500;
+  font-size: 20px;
+}
+.movies-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,40 @@
+.each-movie {
+  list-style-type: none;
+}
+.movie-card {
+  font-family: 'Roboto';
+  padding: 30px;
+  border: 1px #d8c2c2 solid;
+  border-radius: 10px;
+  width: 500px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.poster-img {
+  width: 70%;
+  height: 70%;
+  align-self: center;
+}
+.text-button-container {
+  display: flex;
+  justify-content: space-between;
+}
+.movie-title {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.link-btn {
+  align-self: center;
+}
+.view-details-btn {
+  background-color: rgb(92, 136, 231);
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  align-self: center;
+  border-width: 0px;
+}
